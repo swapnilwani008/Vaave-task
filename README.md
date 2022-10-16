@@ -24,3 +24,11 @@ Task:
 • Find the patterns in in the data using EDA
 
 • Cluster the job Description
+
+
+
+#results:
+<img src=''>
+<img src=''>
+<img src=''>
+<img src=''>
